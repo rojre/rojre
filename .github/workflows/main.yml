@@ -1,5 +1,3 @@
-
-GitHub_Infinite_Days_RDP_Code
 name: RDP
 
 
@@ -211,8 +209,4 @@ jobs:
 
           while ($true) {
 
-              Write-Host "[$(Get-Date)] RDP Active - Use Ctrl+C in workflow to terminate"
-
-              Start-Sleep -Seconds 300
-
-          }
+            
